@@ -1,0 +1,19 @@
+Name of the office center: My Office Center
+Number of offices: 3
+
+Name of the office center: ABC
+Number of offices: 3
+
+Name of the office center: ABC
+Number of offices: 5
+
+Added a new office. New number of offices: 6
+
+Name of the office center: ABC
+Number of offices: 6
+
+Removed one office. New number of offices: 5
+
+Name of the office center: ABC
+Number of offices: 5
+
