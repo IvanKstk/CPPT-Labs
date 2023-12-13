@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki304.Kostiuk.Lab6","l":"App"},{"p":"ki304.Kostiuk.Lab6","l":"ClericalObject"},{"p":"ki304.Kostiuk.Lab6","l":"Pen"},{"p":"ki304.Kostiuk.Lab6","l":"PencilCase"},{"p":"ki304.Kostiuk.Lab6","l":"Ruler"}];updateSearchResults();
